@@ -27,3 +27,4 @@ function clearData() {
     document.getElementById('majorTable').innerHTML = '';
     document.getElementById('btn_clear').style.visibility = 'hidden';
 }
+
